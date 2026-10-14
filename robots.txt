@@ -1,0 +1,5 @@
+# Copia de emergencia da vitrine MAVORIX.
+# A loja de verdade e https://mavorix.com.br — e e ela que deve ser indexada.
+# Este espelho fica fora do indice para nao competir com ela.
+User-agent: *
+Disallow: /
